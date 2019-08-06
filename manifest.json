@@ -9,7 +9,6 @@
   },
   "browser_action": {
     "default_icon": {
-      // optional
       "16": "images/512.png",
       "24": "images/512.png",
       "32": "images/512.png",
