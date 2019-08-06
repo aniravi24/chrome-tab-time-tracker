@@ -11,3 +11,6 @@ Basic chrome extension to track how many minutes you've spent in a tab.
 3. Click the LOAD UNPACKED button and select the extension directory.
 
 Instructions copied verbatim from https://developer.chrome.com/extensions/getstarted
+
+# Usage
+Just use your browser as normal. You'll see a "T" logo with a badge on it that shows you how many minutes you've spent within a tab.
