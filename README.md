@@ -13,4 +13,4 @@ Basic chrome extension to track how many minutes you've spent in a tab.
 Instructions copied verbatim from https://developer.chrome.com/extensions/getstarted
 
 # Usage
-Just use your browser as normal. You'll see a "T" logo with a badge on it that shows you how many minutes you've spent within a tab.
+Just use your browser as normal. The extension has a "T" logo with a black badge on it that shows you how many minutes you've spent within a tab.
