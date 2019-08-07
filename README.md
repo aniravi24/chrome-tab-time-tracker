@@ -19,6 +19,6 @@ Just use your browser as normal. The extension has a "T" logo with a black badge
 
 # Open known bugs
 1. Click away from chrome window, click back into window, open a new tab, click into new tab. Stops tracking because chrome thinks window is out of focus.
-    - Environment is Arch Linux running gnome shell under X11.
+    - Environment is Arch Linux running gnome shell under X11 and Wayland.
 2. There also seems to be a bug where it continues tracking when you are not focused on the chrome window any longer and go to an application outside of chrome.
-    - Environment is Arch Linux running gnome shell under Wayland.
+    - Environment is Arch Linux running gnome shell under X11 and Wayland.
