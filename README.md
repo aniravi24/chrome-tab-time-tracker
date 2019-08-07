@@ -17,4 +17,5 @@ Instructions copied verbatim from https://developer.chrome.com/extensions/getsta
 Just use your browser as normal. The extension has a "T" logo with a black badge on it that shows you how many minutes you've spent within a tab.
 
 # Open known bugs
-- Click away, click back in, open a new tab, click into new tab. Stops tracking because chrome thinks window is out of focus.
+1. Click away, click back in, open a new tab, click into new tab. Stops tracking because chrome thinks window is out of focus.
+ - Environment is Arch Linux running gnome shell under X11.
