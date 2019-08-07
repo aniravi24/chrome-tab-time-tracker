@@ -7,7 +7,8 @@ Basic chrome extension to track how many minutes you've spent in a tab.
 #### It will be published in the chrome store when/if the known bugs are fixed.
 
 1, Open the Extension Management page by navigating to `chrome://extensions`.
-- The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
+- The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then
+selecting Extensions.
 2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 3. Click the LOAD UNPACKED button and select the extension directory.
 
@@ -18,4 +19,4 @@ Just use your browser as normal. The extension has a "T" logo with a black badge
 
 # Open known bugs
 1. Click away, click back in, open a new tab, click into new tab. Stops tracking because chrome thinks window is out of focus.
- - Environment is Arch Linux running gnome shell under X11.
+    - Environment is Arch Linux running gnome shell under X11.
