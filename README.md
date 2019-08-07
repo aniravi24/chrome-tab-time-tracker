@@ -4,6 +4,7 @@ Basic chrome extension to track how many minutes you've spent in a tab.
 # Installation
 
 ### This extension is still in development. You may install it by following the instructions below at your own risk.
+#### It will be published in the chrome store when/if the known bugs are fixed.
 
 1, Open the Extension Management page by navigating to `chrome://extensions`.
 - The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
@@ -14,3 +15,6 @@ Instructions copied verbatim from https://developer.chrome.com/extensions/getsta
 
 # Usage
 Just use your browser as normal. The extension has a "T" logo with a black badge on it that shows you how many minutes you've spent within a tab.
+
+# Open known bugs
+- Click away, click back in, open a new tab, click into new tab. Stops tracking because chrome thinks window is out of focus.

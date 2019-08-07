@@ -51,11 +51,8 @@ function windowFocusChangedListener(windowId) {
     if (windowId !== activeWindowId) {
       if (activeTabId) windows[activeWindowId] = activeTabId;
       if (tabs[activeTabId]) clearInterval(tabs[activeTabId][2]);
-      if (windows[windowId]) {
-        activeTabId = windows[windowId];
-      } else {
-        activeTabId = undefined;
-      }
+      if (windows[windowId]) activeTabId = windows[windowId];
+      else activeTabId = undefined;
       activeWindowId = windowId;
     }
     if (tabs[activeTabId]) {
