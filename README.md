@@ -4,7 +4,7 @@ Basic chrome extension to track how many minutes you've spent in a tab.
 # Installation
 
 ### This extension is still in development. You may install it by following the instructions below at your own risk.
-#### It will be published in the chrome store when/if the known bugs are fixed.
+#### It will be published in the chrome web store when/if the known bugs are fixed.
 
 1, Open the Extension Management page by navigating to `chrome://extensions`.
 - The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then
