@@ -15,7 +15,7 @@ selecting Extensions.
 Instructions copied verbatim from https://developer.chrome.com/extensions/getstarted
 
 # Usage
-Just use your browser as normal. The extension has a "T" logo with a black badge on it that shows you how many minutes you've spent within a tab.
+Just use your browser as normal. The extension has a "T" logo with a black badge on it that shows you how many minutes you've spent within a tab. Icon generated with <https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html>.
 
 # Open known bugs
 1. Click away from chrome window, click back into window, open a new tab, click into new tab. Stops tracking because chrome thinks window is out of focus.
